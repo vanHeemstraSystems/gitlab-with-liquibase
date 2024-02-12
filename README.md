@@ -9,6 +9,8 @@ Based on "Modular building blocks for your Database CI/CD pipeline" at https://w
 
 Based on "Liquibase Open Source Workflows" at https://docs.liquibase.com/workflows/liquibase-community/home.html
 
+Based on "How we manage our DB has all changed. Talking Database, Liquibase, w Robert Reeves -" at https://www.youtube.com/watch?v=riVca7ZSdwg
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
