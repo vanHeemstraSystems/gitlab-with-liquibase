@@ -5,6 +5,8 @@ Based on "How to Set Up GitLab CI/CD Pipelines with Liquibase" at https://www.yo
 
 Based on "CI/CD for the database" at https://www.liquibase.com/ci-cd
 
+Based on "Modular building blocks for your Database CI/CD pipeline" at https://www.liquibase.com/videos/modular-building-blocks-for-your-database-ci-cd-pipeline
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
