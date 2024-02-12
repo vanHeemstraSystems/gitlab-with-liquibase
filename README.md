@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+gitlab-with-liquibase
+# GitLab with Liquibase
 
-Based on "ABC" at https://www.abc.com/
+Based on "How to Set Up GitLab CI/CD Pipelines with Liquibase" at https://www.youtube.com/watch?v=ZBFhDayoRYo
 
 ## 100 - Introduction
 
