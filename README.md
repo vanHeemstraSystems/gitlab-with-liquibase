@@ -11,6 +11,8 @@ Based on "Liquibase Open Source Workflows" at https://docs.liquibase.com/workflo
 
 Based on "How we manage our DB has all changed. Talking Database, Liquibase, w Robert Reeves -" at https://www.youtube.com/watch?v=riVca7ZSdwg
 
+Based on "Databases run better with Percona" at https://www.youtube.com/watch?v=qHEmsQpTbG8
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
