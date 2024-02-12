@@ -13,6 +13,8 @@ Based on "How we manage our DB has all changed. Talking Database, Liquibase, w R
 
 Based on "Databases run better with Percona" at https://www.youtube.com/watch?v=qHEmsQpTbG8
 
+Based on "Install Percona Monitoring and management - Free Open source monitoring for your database" at https://www.youtube.com/watch?v=pgDUG59iXFQ
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
