@@ -7,6 +7,8 @@ Based on "CI/CD for the database" at https://www.liquibase.com/ci-cd
 
 Based on "Modular building blocks for your Database CI/CD pipeline" at https://www.liquibase.com/videos/modular-building-blocks-for-your-database-ci-cd-pipeline
 
+Based on "Liquibase Open Source Workflows" at https://docs.liquibase.com/workflows/liquibase-community/home.html
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
